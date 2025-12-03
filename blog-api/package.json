@@ -1,0 +1,17 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanay",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1",
+    "graphql": "^16.12.0",
+    "graphql-tools": "^9.0.25",
+    "nodemon": "^3.1.11"
+  }
+}
